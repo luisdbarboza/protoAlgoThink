@@ -1,0 +1,23 @@
+class Stack { 
+    constructor() { 
+        this.items = []; 
+    }  
+    // Push
+    push(element){ 
+        this.items.push(element); 
+    } 
+    // pop() 
+    pop(){ 
+      if (this.items.length == 0) 
+          return -1; 
+      return this.items.pop(); 
+    } 
+    // peek() 
+    peek(){ 
+      return this.items[this.items.length - 1]; 
+    } 
+    // isEmpty() 
+    isEmpty(){ 
+      return this.items.length == 0; 
+    } 
+}
