@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/luisdbarboza/protoAlgoThink/topico/static/js/main.c9c9d409.chunk.js",
+    "main.js.map": "/luisdbarboza/protoAlgoThink/topico/static/js/main.c9c9d409.chunk.js.map",
+    "runtime-main.js": "/luisdbarboza/protoAlgoThink/topico/static/js/runtime-main.44080750.js",
+    "runtime-main.js.map": "/luisdbarboza/protoAlgoThink/topico/static/js/runtime-main.44080750.js.map",
+    "static/js/2.0ef2ef86.chunk.js": "/luisdbarboza/protoAlgoThink/topico/static/js/2.0ef2ef86.chunk.js",
+    "static/js/2.0ef2ef86.chunk.js.map": "/luisdbarboza/protoAlgoThink/topico/static/js/2.0ef2ef86.chunk.js.map",
+    "index.html": "/luisdbarboza/protoAlgoThink/topico/index.html",
+    "precache-manifest.227a174a2137150b64156957490285be.js": "/luisdbarboza/protoAlgoThink/topico/precache-manifest.227a174a2137150b64156957490285be.js",
+    "service-worker.js": "/luisdbarboza/protoAlgoThink/topico/service-worker.js",
+    "static/js/2.0ef2ef86.chunk.js.LICENSE": "/luisdbarboza/protoAlgoThink/topico/static/js/2.0ef2ef86.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44080750.js",
+    "static/js/2.0ef2ef86.chunk.js",
+    "static/js/main.c9c9d409.chunk.js"
+  ]
+}
